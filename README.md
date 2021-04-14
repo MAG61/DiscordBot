@@ -1,2 +1,3 @@
 # DiscordBot
 Discord Botu
+sea
